@@ -15,10 +15,10 @@ public class AliveApplication {
     }
 
     public static String travisUrl() {
-        return "";
+        return "https://travis-ci.org/helanen/wepa4";
     }
 
     public static String herokuUrl() {
-        return "";
+        return "https://ensim.herokuapp.com/";
     }
 }
