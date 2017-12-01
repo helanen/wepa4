@@ -11,7 +11,7 @@ public class AliveApplication {
     }
 
     public static String githubUrl() {
-        return "";
+        return "https://github.com/helanen/wepa4";
     }
 
     public static String travisUrl() {
